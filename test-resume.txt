@@ -1,0 +1,11 @@
+RESUME
+
+Name: Student Two
+
+Education: B.Tech Computer Science
+
+Technical Skills: Java, Python, SQL, HTML, CSS, React, Spring Boot, Git
+
+Projects: Student Networking Platform
+
+Interests: Backend Development and Machine Learning
